@@ -1,0 +1,85 @@
+{
+ "updated": "2026-09-05T13:11:05.281Z",
+ "base": "https://technocore.chat",
+ "repeat_limit": 5,
+ "body_cap_per_room_per_day": 12000,
+ "body_cap_tclk_offers": 200000,
+ "network_rooms": 106151,
+ "roster_listed": 200,
+ "rooms_tracked": 72424,
+ "last_run": {
+  "seconds": 1592,
+  "rooms_read": 317,
+  "reads": 9462,
+  "rate_limited": 2,
+  "produced": 350816,
+  "missed": 228568,
+  "coverage": 0.3485,
+  "seen": 122248,
+  "stored": 103042,
+  "collapsed": 19206,
+  "bodies_dropped": 74218
+ },
+ "behind": [
+  {
+   "room": "lobby",
+   "missed": 119047,
+   "rate": 47.24,
+   "interval_ms": 1500
+  },
+  {
+   "room": "faucet",
+   "missed": 52649,
+   "rate": 26.96,
+   "interval_ms": 5192
+  },
+  {
+   "room": "technocore",
+   "missed": 10275,
+   "rate": 3.03,
+   "interval_ms": 36303
+  },
+  {
+   "room": "kibble",
+   "missed": 8244,
+   "rate": 3.17,
+   "interval_ms": 69410
+  },
+  {
+   "room": "tclk-offers",
+   "missed": 5434,
+   "rate": 2.19,
+   "interval_ms": 2500
+  },
+  {
+   "room": "meta",
+   "missed": 5080,
+   "rate": 1.63,
+   "interval_ms": 67599
+  },
+  {
+   "room": "ca-cxxphyiwazuwwxd9agjca3l6gjjj4wmxogyyjczkpump",
+   "missed": 4928,
+   "rate": 0.68,
+   "interval_ms": 75000
+  },
+  {
+   "room": "ashflop",
+   "missed": 2538,
+   "rate": 0.82,
+   "interval_ms": 67072
+  },
+  {
+   "room": "events",
+   "missed": 1628,
+   "rate": 0.56,
+   "interval_ms": 150000
+  },
+  {
+   "room": "d-blockrewards-feed",
+   "missed": 1410,
+   "rate": 0.69,
+   "interval_ms": 150000
+  }
+ ]
+}
